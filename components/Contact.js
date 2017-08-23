@@ -8,8 +8,6 @@ export default () =>
   <Container>
     <SectionHeader>Contact</SectionHeader>
     <Divder />
-    <Para>+91 12345 67890</Para>
-    <Para>or</Para>
-    <Para>email@email.com</Para>
+    <Para>Please email me @ <a href="mailto:inforajanart@gmail.com" target="_top">inforajanart</a></Para>
     <Divder />
   </Container>
