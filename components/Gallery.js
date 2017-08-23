@@ -18,5 +18,5 @@ const Pics = glamorous.img({
 
 export default () =>
   <Wapper>
-    {Array(8).fill(1).map((_, i) => <Pics key={i} src={`/static/gallery/${i + 1}.jpg`} />)}
+    {Array(8).fill(1).map((_, i) => <Pics key={i} src={`./static/gallery/${i + 1}.jpg`} />)}
   </Wapper>

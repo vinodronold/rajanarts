@@ -77,7 +77,7 @@ export default () =>
       <Brand>Rajan, The Artist</Brand>
       <Divider />
       <Gallery />
-      <About />
-      <Contact />
     </Container>
+    <About />
+    <Contact />
   </div>
